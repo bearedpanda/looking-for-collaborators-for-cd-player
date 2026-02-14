@@ -6,6 +6,8 @@ It uses C/C++ and Raspberry Pi Zero and it's a CD (all variants excluding CD-i),
 
 If you accept please send your github username by commenting to [Issue #1](https://github.com/bearedpanda/looking-for-collaborators-for-cd-player/issues/1) and I'll add you to my repo.
 
+I will not give you money as a reward.
+
 **DO NOT**:
 - Use AI
 - Use prebuilt libraries
