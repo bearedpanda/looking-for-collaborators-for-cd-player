@@ -10,6 +10,7 @@ I will not give you money as a reward.
 
 **DO NOT**:
 - Use AI
-- Use prebuilt libraries
+- Use prebuilt libraries for reading CDs/DVDs
+- Violate licenses of libraries
 - Use copy-pasting
 - Use examples
